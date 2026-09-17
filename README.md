@@ -55,7 +55,7 @@ A Gemini-powered scheduling simulator for ML workloads that uses an LLM to gener
 - CPU/Resource Utilization
 - Jain Fairness
 
-GitHub:  
+Live Demo 
 https://llm-job-scheduler-xevmht39uibzbwnelbdar2.streamlit.app/
 
 ###  BMSCE AI Chatbot
@@ -63,7 +63,7 @@ https://llm-job-scheduler-xevmht39uibzbwnelbdar2.streamlit.app/
 An AI-powered college assistant designed to help students access information about BMSCE using a combination of official college information and other knowledge sources.
 
 **Tech:** Python, Flask, Gemini API, Supabase, HTML, CSS, JavaScript
-GitHub:  
+Live Demo 
 (https://bmsce-chatbox-assistant.onrender.com/)
 
 
