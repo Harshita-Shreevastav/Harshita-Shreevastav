@@ -3,7 +3,7 @@
 My personal portfolio website showcasing my projects, technical skills, certifications, hackathon experience, and journey as an Artificial Intelligence & Machine Learning engineering student.
 
  **Live Portfolio:**  
-https://harshita-shreevastav.github.io/
+https://harshita-shreevastav.github.io/Harshita-Shreevastav/
 
 ## About
 
